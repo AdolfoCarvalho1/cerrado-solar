@@ -3,6 +3,9 @@
 Protótipo one-page (Next.js 16 + App Router + TypeScript) para um integrador solar de Planaltina/DF.
 Marca fictícia, conteúdo demonstrativo. Pesquisa de mercado em [`PESQUISA-MERCADO-SOLAR.md`](./PESQUISA-MERCADO-SOLAR.md).
 
+- **Demo:** https://cerrado-solar-puce.vercel.app
+- **Repo:** https://github.com/AdolfoCarvalho1/cerrado-solar
+
 ## Rodar
 
 ```bash
