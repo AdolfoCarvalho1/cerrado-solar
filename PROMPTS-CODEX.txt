@@ -1,0 +1,183 @@
+CERRADO SOLAR — PROMPTS DE IMAGEM PARA O CHATGPT / CODEX
+20 imagens · cole um bloco por vez · sem markdown, é só copiar da linha PROMPT até o fim do bloco.
+
+DICA DE PROPORÇÃO
+- 21:9 (panorâmica): peça "wide cinematic 21:9". Se o ChatGPT só gerar 3:2, gere em 3:2 e eu corto.
+- 16:9, 3:2, 4:5 e 1:1: escreva a proporção no fim do prompt, como está abaixo.
+- Salve com o nome do cabeçalho de cada bloco dentro de public/img/.
+
+BLOCO DE ESTILO (opcional: cole no fim de qualquer prompt para manter a unidade)
+Editorial documentary photography, Brazilian Cerrado, late afternoon golden light, deep blue sky with high cirrus clouds, red earth and dry grass, warm white and cobalt blue palette, subtle sun flare, 35mm equivalent, f/5.6, natural color grading, fine grain, photorealistic, no text, no logo, no watermark.
+
+NEGATIVE PADRÃO (cole junto se a imagem vier estranha)
+text, letters, watermark, logo, cartoon, CGI render, plastic skin, deformed hands, extra fingers, warped panels, fisheye, oversaturated green, HDR halo, fake bokeh, crowded composition, stock-photo smile.
+
+
+====================================================================
+00 — pano-00-fazenda.jpg — 21:9  (FAZENDA COM GADO + USINA GRANDE)
+====================================================================
+PROMPT:
+Ultra-wide cinematic photograph of a Brazilian Cerrado cattle farm that is also a large solar plant: a vast ground-mounted array of dark monocrystalline panels stretching to the horizon on the right, Nelore cattle grazing on dry golden pasture in the foreground between rows, a weathered wooden fence and a red-earth track leading into the frame, a small farmhouse with white walls and a metal roof far left, deep cobalt sky with high cirrus clouds, low golden sun behind the panels casting long shadows, dust in the air, camera at 1.6m height, 24mm lens, f/8, documentary agriculture photography, photorealistic, cinematic, 21:9 with generous sky.
+
+Observação: é a primeira cena da panorâmica — entra automaticamente no site assim que salvar com este nome em public/img/.
+
+
+====================================================================
+01 — pano-01-cerrado.jpg — 21:9
+====================================================================
+PROMPT:
+Ultra-wide editorial photograph of a ground-mounted solar array in the Brazilian Cerrado at golden hour: rows of dark monocrystalline panels leading toward a low sun on the horizon, red earth and dry golden grass between rows, a lone cerrado tree silhouetted at the right edge, deep cobalt sky with thin high clouds, warm dust in the air, low camera angle at 1.2m height, 24mm lens, f/8, sun flare grazing the panel glass, no people, no buildings, photorealistic, cinematic, 21:9 composition with generous sky.
+
+
+====================================================================
+02 — pano-02-telhado.jpg — 21:9
+====================================================================
+PROMPT:
+Wide editorial photograph of a single-story Brazilian house in Planaltina, DF, with a ceramic tile roof covered by a neat array of dark solar panels, warm afternoon light raking across the tiles, white walls, mango tree at the side, clothesline and a low garden wall, deep blue sky, a few soft clouds, 28mm lens, slightly elevated viewpoint from a neighboring roof, documentary realism, photorealistic, no people, no text, 21:9.
+
+
+====================================================================
+03 — pano-03-instalador.jpg — 21:9
+====================================================================
+PROMPT:
+Wide documentary photograph of two solar installers working on a residential roof in the Brazilian Cerrado: one kneeling and tightening a mounting clamp on a solar panel, the other holding the next module, both wearing plain navy work shirts, gloves, safety glasses and harness, red ceramic tiles, tools and rails in the foreground, dramatic late-afternoon backlight, dust and warm flare, 35mm lens, f/4, shallow depth of field on the hands and clamp, candid, photorealistic, no visible brand, no text, 21:9.
+
+
+====================================================================
+04 — pano-04-familia.jpg — 21:9
+====================================================================
+PROMPT:
+Wide cinematic photograph inside a bright Brazilian middle-class kitchen at morning: a mother and a teenage daughter at the counter, natural window light, white cabinets, blue accents, a kettle steaming, a small inverter display glowing on the wall in the background, warm domestic atmosphere, 35mm lens, f/2.8, candid expressions, no eye contact with camera, photorealistic, editorial lifestyle, no text, 21:9.
+
+
+====================================================================
+05 — pano-05-cidade.jpg — 21:9
+====================================================================
+PROMPT:
+Wide dusk photograph of a Brazilian city skyline at blue hour seen from a residential rooftop with solar panels silhouetted in the foreground, warm windows lighting up across the city, deep indigo sky with the last orange band on the horizon, a few street lights, 35mm lens, f/5.6, long exposure feel, calm and premium, photorealistic, no text, 21:9.
+
+
+====================================================================
+06 — modulo-macro.jpg — 16:9
+====================================================================
+PROMPT:
+Extreme close-up of a monocrystalline solar panel at a low grazing angle, deep blue cells with thin silver busbars, a bright sun reflection sliding across the glass, micro-texture of the frame and water droplets, blurred red earth background, 90mm macro lens, f/4, razor-sharp foreground, warm late-afternoon light, photorealistic, abstract and premium, no text, 16:9.
+
+
+====================================================================
+07 — aerea-condominio.jpg — 16:9
+====================================================================
+PROMPT:
+Aerial drone photograph of a Brazilian residential condominium with dozens of houses, several rooftops fitted with solar panels, palm trees and lawns, long shadows from late afternoon sun, deep blue sky, 24mm equivalent, f/5.6, crisp detail, documentary real estate photography, photorealistic, no text, 16:9.
+
+
+====================================================================
+08 — engenheira-tablet.jpg — 4:5
+====================================================================
+PROMPT:
+Vertical editorial portrait of a Brazilian female solar engineer in her 30s standing in front of a wall-mounted hybrid inverter and battery, holding a tablet with a generation graph, wearing a navy polo and a white hard hat under her arm, confident calm expression looking slightly off-camera, warm side light, garage concrete wall, shallow depth of field, 50mm lens, f/2, photorealistic, no text, 4:5.
+
+
+====================================================================
+09 — bateria-wall.jpg — 3:2
+====================================================================
+PROMPT:
+Clean product-in-context photograph of a slim white wall-mounted lithium battery next to a modern hybrid inverter on a light concrete garage wall, neat conduit and a small status LED, soft daylight from the side, a bicycle and a tool shelf softly blurred at the edge, 35mm lens, f/4, architectural digest style, photorealistic, no brand marks, no text, 3:2.
+
+
+====================================================================
+10 — rack-baterias.jpg — 3:2
+====================================================================
+PROMPT:
+Detailed photograph of a rack of stacked lithium iron phosphate battery modules in a technical room, matte grey enclosures, tidy red and black cables, breaker panel and labeled conduits, cool white light mixed with a warm window glow, 28mm lens, f/5.6, symmetrical composition, industrial-clean, photorealistic, no brand, no text, 3:2.
+
+
+====================================================================
+11 — casa-noite.jpg — 16:9
+====================================================================
+PROMPT:
+Architectural photograph of a modern Brazilian house at night, warm interior lights and garden lights on, solar panels faintly visible on the roof under moonlight, deep blue sky, a few stars, pool reflection, long exposure, 24mm lens, f/5.6, premium real estate photography, photorealistic, no people, no text, 16:9.
+
+
+====================================================================
+12 — padaria.jpg — 3:2
+====================================================================
+PROMPT:
+Documentary photograph of a small Brazilian bakery storefront on a quiet street in Planaltina, DF, warm interior light spilling onto the sidewalk, a few solar panels visible on the flat roof above the sign, an employee opening the shutter, late afternoon, 35mm lens, f/4, authentic small-business atmosphere, no readable sign text, no brand, photorealistic, 3:2.
+
+
+====================================================================
+13 — rural.jpg — 16:9
+====================================================================
+PROMPT:
+Wide photograph of a Brazilian rural property in the Cerrado with a ground-mounted solar array beside a barn, a water tank and a fence, red earth track leading into the frame, dry golden pasture, deep blue sky, late afternoon light, 24mm lens, f/8, documentary agriculture photography, photorealistic, no people, no text, 16:9.
+
+
+====================================================================
+14 — galpao.jpg — 16:9
+====================================================================
+PROMPT:
+Aerial three-quarter view of a large warehouse with a metal roof fully covered by solar panels, loading docks and trucks below, asphalt yard, long shadows, late afternoon, 24mm equivalent, f/5.6, crisp industrial detail, documentary drone photography, photorealistic, no logos, no text, 16:9.
+
+
+====================================================================
+15 — equipe.jpg — 4:5
+====================================================================
+PROMPT:
+Vertical environmental portrait of a three-person Brazilian solar installation team standing in front of a white service van in a residential driveway, navy uniforms without logos, one holding a hard hat, relaxed and confident, late afternoon side light, 50mm lens, f/2.8, shallow depth of field, documentary portrait, photorealistic, no text, 4:5.
+
+
+====================================================================
+16 — fixacao-telha.jpg — 1:1
+====================================================================
+PROMPT:
+Macro photograph of a solar mounting hook fixed to a red ceramic roof tile, aluminum rail and stainless bolt in sharp focus, craftsman's gloved hand holding a torque wrench, shallow depth of field, warm afternoon light, dust on the tile, 90mm macro lens, f/4, photorealistic, no text, 1:1.
+
+
+====================================================================
+17 — art-mesa.jpg — 3:2
+====================================================================
+PROMPT:
+Overhead photograph of a technical desk: printed single-line electrical diagram, a stamped ART document, mechanical pencil, scale ruler, laptop showing a solar layout, coffee cup, warm window light from the left, 35mm lens, f/4, organized and precise, photorealistic, no readable text, no logo, 3:2.
+
+
+====================================================================
+18 — inversor-display.jpg — 1:1
+====================================================================
+PROMPT:
+Close-up of a modern hybrid solar inverter display showing a generation graph and power figures, soft blue glow on brushed metal, cables neatly connected below, dark technical room background, 50mm lens, f/2.8, shallow depth of field, photorealistic, no readable text, no brand, 1:1.
+
+
+====================================================================
+19 — app-mao.jpg — 4:5
+====================================================================
+PROMPT:
+Vertical photograph of a hand holding a smartphone in front of a blurred solar roof at golden hour, the screen showing a clean energy monitoring dashboard with a blue bar chart and a large power figure (no readable text), warm bokeh, 50mm lens, f/2, photorealistic, modern and premium, no logo, 4:5.
+
+
+====================================================================
+20 — dashboard-tablet.jpg — 16:9
+====================================================================
+PROMPT:
+Over-the-shoulder photograph of a person at a wooden desk reviewing a solar monitoring dashboard on a tablet, graph and system status cards in blue and white, natural window light, plant and notebook at the edge of the frame, 35mm lens, f/2.8, shallow depth of field, photorealistic, no readable text, no logo, 16:9.
+
+
+====================================================================
+21 — tile-painel.jpg — 1:1  (ASSET DO SIMULADOR: UM MÓDULO)
+====================================================================
+PROMPT:
+Studio product photograph of a single solar module, perfectly straight-on orthographic front view: dark navy monocrystalline cells in a neat grid of 6 columns by 10 rows, thin silver busbars and fingers, slim anodized aluminum frame around the edge, the module fills the entire frame edge to edge with no background visible, even diffuse daylight, no glare, no sun reflection, no water droplets, no perspective, no people, no text, no logo, crisp detail, slightly muted contrast, photorealistic, 1:1 square.
+
+Uso: é a textura de cada painel do arranjo no simulador. Vai aparecer repetida em tamanho pequeno, então o ideal é rosto de módulo limpo, sem brilho e sem fundo. Salve como public/img/tile-painel.jpg.
+
+
+====================================================================
+22 — tile-bateria.jpg — 1:1  (ASSET DO SIMULADOR: UMA BATERIA)
+====================================================================
+PROMPT:
+Studio product photograph of a single white wall-mounted lithium battery module, straight-on front view, rounded corners, one thin horizontal green LED near the top, matte white casing, the unit is centered and fills most of the frame, seamless light grey studio background, soft even lighting, subtle shadow at the base, no cables, no text, no logo, no people, photorealistic, 1:1 square.
+
+Uso: textura de cada bateria no banco do simulador. Salve como public/img/tile-bateria.jpg.
+
+
+FIM.
